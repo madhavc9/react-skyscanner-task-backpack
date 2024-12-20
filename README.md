@@ -111,9 +111,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo
 
-![Demo Screenshot](%PUBLIC_URL%/demo_website.jpg)
+![Demo Screenshot](./public/demo_website.jpg)
 
-## Author : MADHAV**
+## Author : MADHAV
 
 Feel free to reach out for questions or contributions!
 Happy Coding ! 🚀
