@@ -3,6 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and extended with [backpack-react-scripts](https://github.com/Skyscanner/backpack-react-scripts/tree/master/packages/react-scripts).
 
 ## Steps to Clone and Run the Project Locally
+<details>
+  <summary>Click to expand/collapse</summary>
 
 1. **Clone the Repository:**
    - Open your terminal and clone the repository to your local machine:
@@ -36,7 +38,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
      ```
    - This will generate a minified and optimized version of the app in the `build/` folder.
 
+</details>
+
 ## Key Features & Configuration
+<details>
+  <summary>Click to expand/collapse</summary>
 
 ### 1. **React Externals**
    - Exclude React and ReactDOM from the output bundle for improved performance. This is useful when React is already loaded globally on the page.
@@ -108,6 +114,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
        "crossOriginLoading": "anonymous"
      }
      ```
+
+</details>
 
 ## Demo
 
